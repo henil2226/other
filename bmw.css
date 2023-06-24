@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.containar{
+    background-image: url(https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/7-series/bmw-i7-&-7-series-desktop.png/jcr:content/renditions/cq5dam.resized.img.1680.large.time1673937459471.png);
+    width: 1366px;
+    height: 600px;
+    margin: 0 auto;
+}
+.logo img{ 
+    width: 150px;
+    height: 100px;
+}
+
+.header{
+    display: flex;
+    font-size: 40px;    
+}
+.header div{
+    margin: 10px;
+}
